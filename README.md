@@ -9,4 +9,4 @@
 You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rkal)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4rkal)](https://github.com/anuraghazra/github-readme-stats)
+#[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4rkal)](https://github.com/anuraghazra/github-readme-stats)
