@@ -12,6 +12,7 @@
 
 - Also intrested in Smart Contract Development and Security, web3 mostly Polygon Blockchain
 
+- Currently completing CS50's Introduction to Artificial Intelligence with Python course
 
 
 
