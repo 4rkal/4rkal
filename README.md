@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <p><a href="https://www.buymeacoffee.com/support4rkal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="support4rkal" /></a></p><br><br>
 </br>
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" width="40px" height="40px">
+<!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" width="40px" height="40px"> -->
 <p>Metamask : 0xDc766a0de861eb16d9473E9C05AdE442c989B011 </p>
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rkal&show_icons=true&locale=en&layout=compact" alt="4rkal" /></p>
