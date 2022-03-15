@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in html/css/javascript java c# node.js python django
 
-- Currently working on Tobble decentralized p2p social media http://tobble.eu.org , https://tobble.herokuapp.com
+- Currently working on Tobble open sourced social media (heading for decentralization) http://tobble.eu.org , https://tobble.herokuapp.com
 
 - Also intrested in Smart Contract Development and Security, web3 mostly Polygon Blockchain
 
