@@ -14,7 +14,7 @@
 
 - Currently completing CS50's Introduction to Artificial Intelligence with Python course
 
-
+- Writing on medium https://4rkal.medium.com/
 
 
 
