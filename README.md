@@ -12,7 +12,7 @@
 
 - Writing on medium https://4rkal.medium.com/
 
--Cryptos im intrested in $xmr $ban $btc $matic
+- Cryptos I'm intrested in $xmr $ban $btc $matic
 
 
 
