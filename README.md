@@ -6,7 +6,7 @@
 
 
 
-- 👀 I’m interested in html/css/javascript java c# node.js python django
+- 👀 I’m interested in html/css/javascript java c# node.js python django go
 
 - Also intrested in Smart Contract Development and Security, web3 mostly Polygon Blockchain
 
