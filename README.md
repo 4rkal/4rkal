@@ -6,13 +6,11 @@
 
 
 
-- 👀 I’m interested in html/css/javascript java c# node.js python django go
-
-- Also intrested in Smart Contract Development web3 mostly Polygon Blockchain
-
+- 👀 I’m interested in html/css/javascript c# python django go
+  
 - Writing on medium https://4rkal.medium.com/ and https://4rkal.eu.org
 
-- Cryptos I'm intrested in $xmr $ban $btc $matic
+- Cryptos I'm intrested in $xmr $ban $matic
 
 
 
