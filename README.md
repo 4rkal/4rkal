@@ -10,7 +10,7 @@
   
 - Writing on medium https://4rkal.medium.com/ and https://4rkal.eu.org
 
-- Cryptos I'm intrested in $xmr $ban $matic
+- Cryptos I'm intrested in xmr ban matic
 
 
 
