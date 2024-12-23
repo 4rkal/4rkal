@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in html/css/javascript c# python django go
   
-- Writing on [medium](https://4rkal.medium.com/) and [my blog](https://4rkal.eu.org)
+- Writing on [medium](https://4rkal.medium.com/) and [my blog](https://4rkal.com)
 
 - Cryptos I'm intrested in [monero](https://getmonero.org) and [banano](https://banano.cc)
 
